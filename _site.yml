@@ -1,0 +1,23 @@
+name: "my-website"
+navbar:
+  title: "Tom Barton"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "CV"
+    href: cv.html
+  - text: "Teaching"
+    href: teach.html
+  - text: "Publications"
+    href: pub.html
+  right:
+  - icon: "fa-envelope fa-lg"
+    href: mailto:tom_m_barton@outlook.com
+  - icon: "fa-twitter fa-lg"
+    href: https://twitter.com/_TomBarton
+  - icon: "fa-github fa-lg"
+    href: https://github.com/tom-barton
+output:
+  html_document:
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css
+    theme: spacelab
