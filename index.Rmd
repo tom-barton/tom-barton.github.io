@@ -3,7 +3,7 @@ title: "Tom Barton"
 ---
 <img src="pictures/profile.jpeg" width="25%" style="float:right">
 
-I'm Tom Barton a PhD Candidate in Politics at Royal Holloway, University of London. I hold a BA (Hons) in Politics and International Relations with Quantitative Research from the University of Kent and a MSc in Elections, Campaigns and Democracy from Royal Holloway. My PhD focuses on the impact of Voter Identification laws on election turnout and perceptions of democratic integrity.
+I'm Tom Barton a PhD Candidate in Politics at Royal Holloway, University of London. I hold a BA (Hons) in Politics and International Relations with Quantitative Research from the University of Kent and a MSc in Elections, Campaigns and Democracy from Royal Holloway. My PhD focuses on the impact of Voter Identification (ID) laws on election turnout and perceptions of democratic integrity.
 
 I created the Comparative Voter ID Law dataset (CVIL) which details the voter ID law in each country along with other key characteristics.
 
