@@ -2,5 +2,5 @@
 title: "CV"
 ---
 
-<iframe src="documents/CV Tom Barton December 2022.pdf" width="100%" height="600px">
+<iframe src="documents/CV Tom Barton January 2023.pdf" width="100%" height="600px">
 </iframe>
