@@ -13,7 +13,9 @@ Distribution of Voter Identification Laws.
 #### Working Papers:
 Barton, T. Effects of changing voter ID laws on participation: A synthetic difference-in-difference approach. 
 <br>
+<br>
 Barton, T. The Relationship Between Voter ID Laws and Turnout: Going Beyond the United States.
+<br>
 <br>
 Barton, T. and Virgo, L. Does the Minister Agree with Me: Do MPs’ Positions on Brexit Affected the Asking of Parliamentary Questions?
 
