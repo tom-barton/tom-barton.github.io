@@ -17,6 +17,8 @@ navbar:
     href: https://twitter.com/_TomBarton
   - icon: "fa-github fa-lg"
     href: https://github.com/tom-barton
+  - icon: "fa-linkedin fa-lg"
+    href: https://www.linkedin.com/in/tom-barton-774764177/
 output:
   html_document:
     css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css
