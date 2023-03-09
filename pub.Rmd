@@ -11,7 +11,7 @@ Distribution of Voter Identification Laws.
 <br>
 
 #### Working Papers:
-Barton, T. Understanding the impact of the 2018 Voter ID Pilots on Turnout at the London Local Elections: A Synthetic Difference-in-Difference Approach. 
+Barton, T. Understanding the Impact of the 2018 Voter ID Pilots on Turnout at the London Local Elections: A Synthetic Difference-in-Difference Approach. 
 <br>
 <br>
 Barton, T. Do Restrictive Voter ID Laws Alter Expert Perceptions of Electoral Integrity? A Comparative Analysis.
