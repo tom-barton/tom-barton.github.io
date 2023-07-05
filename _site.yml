@@ -3,13 +3,13 @@ navbar:
   title: "Tom Barton"
   left:
   - text: "Home"
-    href: _site/index.html
+    href: index.html
   - text: "CV"
-    href: _site/cv.html
+    href: cv.html
   - text: "Teaching"
-    href: _site/teach.html
+    href: teach.html
   - text: "Publications"
-    href: _site/pub.html
+    href: pub.html
   right:
   - icon: "fa-envelope fa-lg"
     href: mailto:tom_m_barton@outlook.com
@@ -21,5 +21,5 @@ navbar:
     href: https://www.linkedin.com/in/tom-barton-774764177/
 output:
   html_document:
-    css: D:/Royal Holloway/PhD/tom-barton.github.io/_site/site_libs/font-awesome-6.4.0/css/all.min.css
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css
     theme: spacelab
