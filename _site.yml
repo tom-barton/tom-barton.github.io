@@ -3,13 +3,13 @@ navbar:
   title: "Tom Barton"
   left:
   - text: "Home"
-    href: index.html
+    href: _site/index.html
   - text: "CV"
-    href: cv.html
+    href: _site/cv.html
   - text: "Teaching"
-    href: teach.html
+    href: _site/teach.html
   - text: "Publications"
-    href: pub.html
+    href: _site/pub.html
   right:
   - icon: "fa-envelope fa-lg"
     href: mailto:tom_m_barton@outlook.com
