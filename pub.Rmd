@@ -4,6 +4,9 @@ title: "Publications"
 <br>
 
 #### Peer-Reviewed:
+Barton, T. (forthcoming) Understanding the Impact of the 2018 Voter ID Pilots on Turnout at the London Local Elections: A Synthetic Difference-in-Difference Approach. 
+<br>
+<br>
 Barton, T. (2022) Understanding a Key Electoral Tool: A New Dataset on the Global 
 Distribution of Voter Identification Laws.
 [10.1080/00344893.2022.2113117](https://www.tandfonline.com/doi/full/10.1080/00344893.2022.2113117)
@@ -11,7 +14,7 @@ Distribution of Voter Identification Laws.
 <br>
 
 #### Working Papers:
-Barton, T. Understanding the Impact of the 2018 Voter ID Pilots on Turnout at the London Local Elections: A Synthetic Difference-in-Difference Approach. 
+Hanretty, C. and Barton, T. The Effects of Voter ID Requirements in the 2024 General Election
 <br>
 <br>
 Barton, T. Do Restrictive Voter ID Laws Alter Expert Perceptions of Electoral Integrity? A Comparative Analysis.
@@ -25,6 +28,9 @@ Barton, T. and Virgo, L. Does the Minister Agree with Me: Do MPs’ Positions on
 <br>
 
 #### Blog Posts:
+Democracy and Elections Centre team (2024) Voter ID and turnout in GE2024. Online Blog: DEC@RHUL. Available at:
+https://hollodec.github.io/2024/07/09/voterid.html
+
 Democracy and Elections Centre team (2023) Why we may never know the full 
 effects of voter ID. Online Blog: DEC@RHUL. Available at: 
 https://hollodec.github.io/2023/05/26/voterid.html 
